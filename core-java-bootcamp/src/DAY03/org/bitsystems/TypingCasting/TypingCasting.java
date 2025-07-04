@@ -21,7 +21,9 @@ public class TypingCasting {
 //        System.out.println("Double to Int " +doubleToInt);
 //
 //        // Implement type casting for Double to Int
-//
+/*
+   Just checking the latest push after latest pull
+ */
 //
 //        int firstNumber = 1234;
 //        int secondNumber = 56789;

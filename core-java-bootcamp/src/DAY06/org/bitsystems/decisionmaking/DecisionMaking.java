@@ -15,5 +15,10 @@ public class DecisionMaking {
         }else {
             System.out.println("Given number " + number + " is Odd !");
         }
+
+        // Using Ternary Operator:
+        String oddEven = (number % 2 == 0) ? "Even" : "Odd";
+        System.out.println("Given number " + number + " is - " + oddEven);
+
     }
 }

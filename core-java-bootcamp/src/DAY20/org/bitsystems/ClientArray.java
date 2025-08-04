@@ -26,7 +26,7 @@ public class ClientArray {
         //What is array index out of bound.
 
     // Third way:
-        int[] array = {10,20,30,40,50,60};
+        int[] array = {105, 10,20,30,40,6, 50,60};
 
     //   ArrayIndexOutOfBoundsException
 
@@ -47,5 +47,6 @@ public class ClientArray {
         System.out.println("\n====================");
        int length = arraysObj.arrayLength(array);
         System.out.println("Array Length : " + length);
+
     }
 }

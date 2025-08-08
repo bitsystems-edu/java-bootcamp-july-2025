@@ -3,7 +3,6 @@ package DAY21.org.bitsystems.Arrays2;
 public class ArrayExample {
 
     //From a given array, find the element x
-
     public boolean isPresent(int[] array,  int element) {
         boolean isPreset = false;
         for(int i = 0; i<array.length; i++) {
